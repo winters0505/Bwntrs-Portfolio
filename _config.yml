@@ -1,0 +1,9 @@
+title: my portfolio
+name: bryce winters 
+email: bwinters05091416@gmail.com 
+
+collections:
+  design:
+    output: true
+    permalink: /:collection/:path/ 
+ 
